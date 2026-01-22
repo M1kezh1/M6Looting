@@ -1,9 +1,9 @@
 [gd_scene load_steps=10 format=3 uid="uid://eundh35r605v"]
 
-[ext_resource type="Texture2D" uid="uid://d3unutq03pfot" path="res://assets/torch/torch_body.png" id="1_6r3s4"]
-[ext_resource type="Script" path="res://assets/torch/torch.gd" id="1_8rman"]
-[ext_resource type="Shader" path="res://assets/torch/flame_shape.gdshader" id="2_2ljxm"]
-[ext_resource type="Texture2D" uid="uid://88m347xt4ima" path="res://assets/torch/flame_shape.png" id="3_5oi5q"]
+[ext_resource type="Texture2D" uid="uid://d3unutq03pfot" path="res://lessons/chest/assets/torch/torch_body.png" id="1_6r3s4"]
+[ext_resource type="Script" uid="uid://6wlxhmr72ubq" path="res://lessons/chest/assets/torch/torch.gd" id="1_8rman"]
+[ext_resource type="Shader" uid="uid://du15n57erwxu4" path="res://lessons/chest/assets/torch/flame_shape.gdshader" id="2_2ljxm"]
+[ext_resource type="Texture2D" uid="uid://88m347xt4ima" path="res://lessons/chest/assets/torch/flame_shape.png" id="3_5oi5q"]
 
 [sub_resource type="Gradient" id="Gradient_8r0r1"]
 offsets = PackedFloat32Array(0.0869565, 0.666667)

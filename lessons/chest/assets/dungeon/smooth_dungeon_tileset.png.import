@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://l0y1k1obencd"
-path="res://.godot/imported/spider_web.png-e4b63a764fc416cd285eadc86a808826.ctex"
+uid="uid://114x1a0rmx4l"
+path="res://.godot/imported/smooth_dungeon_tileset.png-8e9f6777506b4dbb960222818001f4ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/dungeon/spider_web.png"
-dest_files=["res://.godot/imported/spider_web.png-e4b63a764fc416cd285eadc86a808826.ctex"]
+source_file="res://lessons/chest/assets/dungeon/smooth_dungeon_tileset.png"
+dest_files=["res://.godot/imported/smooth_dungeon_tileset.png-8e9f6777506b4dbb960222818001f4ee.ctex"]
 
 [params]
 

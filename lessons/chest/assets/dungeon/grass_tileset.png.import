@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwhshkk62k3bh"
-path="res://.godot/imported/sparrow.png-4351672e35a5706efa7b9f7efdbafb9e.ctex"
+uid="uid://dpym64uaptlhb"
+path="res://.godot/imported/grass_tileset.png-887c84a386773bf45ca75f18ab45765f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/bird/sparrow.png"
-dest_files=["res://.godot/imported/sparrow.png-4351672e35a5706efa7b9f7efdbafb9e.ctex"]
+source_file="res://lessons/chest/assets/dungeon/grass_tileset.png"
+dest_files=["res://.godot/imported/grass_tileset.png-887c84a386773bf45ca75f18ab45765f.ctex"]
 
 [params]
 

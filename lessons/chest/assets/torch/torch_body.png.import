@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c1rgncfgjxefj"
-path="res://.godot/imported/pillar.png-828bbf8c4ca619c8ad3422d45b9771d3.ctex"
+uid="uid://d3unutq03pfot"
+path="res://.godot/imported/torch_body.png-c6fbc9bf9cb1795d22131f2db403ba36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/dungeon/pillar.png"
-dest_files=["res://.godot/imported/pillar.png-828bbf8c4ca619c8ad3422d45b9771d3.ctex"]
+source_file="res://lessons/chest/assets/torch/torch_body.png"
+dest_files=["res://.godot/imported/torch_body.png-c6fbc9bf9cb1795d22131f2db403ba36.ctex"]
 
 [params]
 

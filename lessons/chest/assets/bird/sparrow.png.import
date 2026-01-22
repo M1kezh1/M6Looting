@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ckly4bkwbhm34"
-path="res://.godot/imported/spark.png-9e72e59a074ba69d56ac05a618c55831.ctex"
+uid="uid://bwhshkk62k3bh"
+path="res://.godot/imported/sparrow.png-8600b099f4dff8ffd56e1d7f32ad2957.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/spark.png"
-dest_files=["res://.godot/imported/spark.png-9e72e59a074ba69d56ac05a618c55831.ctex"]
+source_file="res://lessons/chest/assets/bird/sparrow.png"
+dest_files=["res://.godot/imported/sparrow.png-8600b099f4dff8ffd56e1d7f32ad2957.ctex"]
 
 [params]
 

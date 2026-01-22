@@ -1,6 +1,6 @@
 [gd_scene load_steps=7 format=3 uid="uid://bdooawbxdlh2s"]
 
-[ext_resource type="Texture2D" uid="uid://ckly4bkwbhm34" path="res://assets/spark.png" id="1_na8mb"]
+[ext_resource type="Texture2D" uid="uid://ckly4bkwbhm34" path="res://lessons/chest/assets/spark.png" id="1_na8mb"]
 
 [sub_resource type="Gradient" id="Gradient_tjyo0"]
 offsets = PackedFloat32Array(0.8, 1)
