@@ -24,7 +24,5 @@ func _input_event(viewport: Viewport, event: InputEvent, shape_idx: int) -> void
 	)
 	
 	if event_is_mouse_click:
-		var tween := create_tween()
-		tween.set_trans(Tween.TRANS_CUBIC).set_ease(Tween.EASE_OUT)
-		tween.tween_property(get_node("Sprite2D"), "scale", Vector2(0.0, 0.0), 0.3)
-		tween.finished.connect(queue_free)
+		queue_free()
+		print("Clicked")
